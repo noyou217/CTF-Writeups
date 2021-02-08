@@ -13,10 +13,8 @@ cnenprgnzbysbeurnqnpur
 
 #### Solution
 
-“ROTech” suggests rotation cipher
-
-“$13 Million Deal” suggests ROT-13
-
+“ROTech” suggests rotation cipher<br/>
+“$13 Million Deal” suggests ROT-13<br/>
 Decoding it gets “paracetamolforheadache”
 
 > Flag: Trollcat{paracetamolforheadache}
@@ -38,8 +36,7 @@ TWVyY3VyeVZlbnVzRWFydGhNYXJzSnVwaXRlclNhdHVyblVyYW51c05lcHR1bmU=
 
 #### Solution
 
-“64th” suggests Base 64
-
+“64th” suggests Base 64<br/>
 Decoding it using any Base 64 converter gives “MercuryVenusEarthMarsJupiterSaturnUranusNeptune”
 
 > Flag: Trollcat{MercuryVenusEarthMarsJupiterSaturnUranusNeptune}
@@ -62,8 +59,7 @@ powv wlck zs JICLQaFRNH
 
 #### Solution
 
-The cipher needs a key, and the key is race
-
+The cipher needs a key, and the key is race<br/>
 Using the Vigenere cipher yields the result “your flag is HELLOwORLD”
 
 > Flag: Trollcat{HELLOwORLD}
