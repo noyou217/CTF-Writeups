@@ -1,7 +1,7 @@
 # WTF PHP
 
 Web<br/>
-254, 269 pts<br/>
+254 solves, 269 pts<br/>
 
 ### Description
 ````
