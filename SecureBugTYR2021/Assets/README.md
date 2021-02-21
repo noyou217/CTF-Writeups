@@ -1,1 +1,1 @@
-File for assets (ie images, files)
+Folder for assets (ie images, files)
