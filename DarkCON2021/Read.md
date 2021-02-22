@@ -37,7 +37,9 @@ def lababa(lebula):
 ````
 
 <br/>
-Next, we create a [script](https://github.com/StrixGoldhorn/CTF-Writeups/blob/main/DarkCON2021/Assets/darkconreverse.py) to decode alalalalalalal <br/>
+
+Next, we create a [script](https://github.com/StrixGoldhorn/CTF-Writeups/blob/main/DarkCON2021/Assets/darkconreverse.py) to decode `alalalalalalal` <br/>
+
 <br/>
 
 ````Python
