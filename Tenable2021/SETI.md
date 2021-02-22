@@ -1,7 +1,7 @@
 # SETI
 
 Misc<br/>
-14 solves, 105 pts<br/>
+At least 14 solves, 150 pts<br/>
 
 ### Description
 Our satellite dish recieved this transmission from Alpha Centuri. Can you decode it?<br/>
