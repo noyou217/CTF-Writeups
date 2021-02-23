@@ -6,7 +6,7 @@ Misc<br/>
 
 
 ### Solution
-The server gives a hex number everytime you enter a char<br/>
+The server gives a hex number everytime you enter a character<br/>
 We know that the flag format is `flag{...}`, hence we try the characters `f`, `l`, `a`, `g`, and `{` first<br/>
 We also note that each time we try a character, there are 3 different results<br/>
 
