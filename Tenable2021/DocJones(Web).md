@@ -128,8 +128,8 @@ for i,j in extracted:
 print(amaze)
 ````
 
-We get a [string of hex numbers](/Tenable2021/Assets/rabbit.png)<br/>
+We get a [string of hex numbers](/Tenable2021/Assets/rabbit.txt)<br/>
 Searching the first few hex numbers, we realise that it is a png file<br/>
 Hence, we create a new file in HxD Hex Editor, and paste the hex numbers, and save it as a .png to get the flag<br/>
-![flag](Tenable2021/Assets/followrabbithole.png)<br/>
+![flag](/Tenable2021/Assets/followrabbithole.png)<br/>
 > flag{automation_is_handy}
