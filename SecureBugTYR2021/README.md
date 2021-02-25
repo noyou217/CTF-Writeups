@@ -6,3 +6,9 @@ Teams with non-zero score: Unknown, at least 127
 
 > Position: 95<br/>
 > Score: 250
+
+## Challenge Writeups
+- [FlagScript](/SecureBugTYR2021/FlagScript.md)
+- [Misplaced](/SecureBugTYR2021/Misplaced.md)
+- [MrDoom](/SecureBugTYR2021/MrDoom.md)
+- [Nice Duck](/SecureBugTYR2021/NiceDuck.md)
