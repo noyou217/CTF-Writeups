@@ -1,7 +1,7 @@
 # We Need An Emulator
 
 Code<br/>
-100 pts<br/>
+150 pts<br/>
 
 ### Description
 Attached is some some never-before-seen assembly code routine that we pulled off a processor which is responsible for string decryption. An input string is put into TRX register, then the routine is run, which decrypts the string.
