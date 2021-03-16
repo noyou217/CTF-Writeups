@@ -42,7 +42,7 @@ We view the source code of the website to find a piece of interesting code:<br/>
 </script>
 ````
 We use crackstation to get the plaintext of the md5 hash, which is “sherlock”<br/><br/>
-<img src="./Assets/crackstation.png" width="75%" height="75%"><br/><br/>
+<img src="Assets/crackstation.PNG" width="75%" height="75%"><br/><br/>
 We login with “admin” as username, and “sherlock” as password, to get the flag<br/>
 <br/>
 > utflag{b33n_th3r3_s0uRc3d_th4t}
