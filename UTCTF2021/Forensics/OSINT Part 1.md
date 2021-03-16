@@ -12,7 +12,7 @@ by Rob H
 
 ### Solution
 First, we read through the page and notice this<br/><br/>
-<img src="./Assets/osint1_wade.png" width="50%" height="50%"><br/><br/>
+<img src="./Assets/osint1_wade.PNG" width="50%" height="50%"><br/><br/>
 We then find his [twitter page](https://twitter.com/ColdwaterWade)<br/>
 On one of his posts, there is an image of his employee card, with the flag visible<br/><br/>
 <img src="./Assets/wadeflag.jpg" width="50%" height="50%"><br/>
