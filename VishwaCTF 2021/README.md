@@ -6,5 +6,3 @@ Teams with non-zero score: 400
 
 > Position: 85<br/>
 > Score: 5019
-
-## Challenge Writeups
