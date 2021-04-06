@@ -1,1 +1,0 @@
-This folder will contain challenges from CTFs that we found interesting, yet not enough challenges in the CTF to justify making a folder for.
