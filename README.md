@@ -9,3 +9,5 @@ Writeups for:
 - [UTCTF 2021](/UTCTF2021)
 - [VishwaCTF 2021](/VishwaCTF%202021)
 - [NahamCon 2021](/NahamCon%202021)
+- [BlueHens 2021](/BlueHens%202021)
+- [RITSECCTF 2021](/RITSECCTF%202021)
