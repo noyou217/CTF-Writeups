@@ -20,6 +20,8 @@ From the [provided source code](Assets/superquantumleague.py), we can see that i
 3. Using the characters, we brute force each character of the password, starting from the first.
 4. For this, we use the query `SELECT * FROM users WHERE username='admin' AND password LIKE '{known_password}%' -- `
 <br/>
-[Click here for our solve script](Assets/blindsqli.py)
+
+[Solve script](Assets/blindsqli.py)
+
 <br/>
 > ictf{bl1nd_1nj3ct1on_ftw_5a7566bc}
