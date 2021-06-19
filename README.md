@@ -11,3 +11,6 @@ Writeups for:
 - [NahamCon 2021](/NahamCon%202021)
 - [BlueHens 2021](/BlueHens%202021)
 - [RITSECCTF 2021](/RITSECCTF%202021)
+- [SecureBug ODIN 2021](/SecureBugODIN2021)
+- [Imaginary CTF (Monthly)](/ImaginaryCTF%202021)
+- [HSCTF 2021](/HSCTF%202021)
